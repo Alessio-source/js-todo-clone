@@ -1,0 +1,31 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  margin-left: 12px;
+}
+
+#todoList {
+  margin-left: -10px;
+}
+
+.delete {
+  cursor: pointer;
+  color: red;
+}
+
+#pulsante {
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  background-color: lightblue;
+}
+
+#inputText {
+  padding: 10px 20px;
+  background-color: lightblue;
+  border: none;
+  border-radius: 3px;
+  margin-left: 12px;
+}
